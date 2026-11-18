@@ -4,7 +4,7 @@
 
 [download-url]: https://github.com/zovulrira1974/blender-ai-copilot-assets/releases
 
-[![License](https://img.shields.io/badge/license-MIT-blue)] ![Language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white) ![Platform](https://img.shields.io/badge/platform-Windows%20x64-0078D6?logo=windows&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-E87D0D?logo=blender&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-MCP-5E5CE6) ![Release](https://img.shields.io/badge/release-1.0.0-98D85B) ![Assets](https://img.shields.io/badge/assets-Poly%20Haven%20%7C%20Sketchfab%20%7C%20Poly%20Pizza-14B8A6)
+[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) ![Language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white) ![Platform](https://img.shields.io/badge/platform-Windows%20x64-0078D6?logo=windows&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-E87D0D?logo=blender&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-MCP-5E5CE6) ![Release](https://img.shields.io/badge/release-1.0.0-98D85B) ![Assets](https://img.shields.io/badge/assets-Poly%20Haven%20%7C%20Sketchfab%20%7C%20Poly%20Pizza-14B8A6)
 
 [![Download](docs/download-button.svg)][download-url]
 
